@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2701c4bb.css",
+    "main.js": "/static/js/main.dfd83a2c.js",
+    "static/js/453.aacd4097.chunk.js": "/static/js/453.aacd4097.chunk.js",
+    "static/media/아이맥.png": "/static/media/아이맥.69a8f941f770b7d458e9.png",
+    "static/media/바다.jpeg": "/static/media/바다.66335266a2afa4aad9dc.jpeg",
+    "index.html": "/index.html",
+    "main.2701c4bb.css.map": "/static/css/main.2701c4bb.css.map",
+    "main.dfd83a2c.js.map": "/static/js/main.dfd83a2c.js.map",
+    "453.aacd4097.chunk.js.map": "/static/js/453.aacd4097.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2701c4bb.css",
+    "static/js/main.dfd83a2c.js"
+  ]
+}
